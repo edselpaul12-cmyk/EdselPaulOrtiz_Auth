@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73567655753",
+    "project_id": "edselpaulortiz-auth",
+    "storage_bucket": "edselpaulortiz-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73567655753:android:ef2790a5e06ea3e79c2c98",
+        "android_client_info": {
+          "package_name": "com.example.edselpaultortiz.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7XGm4UVbanvh0Zzw-EQGh5xfQmc5NpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
